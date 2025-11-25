@@ -19,7 +19,7 @@ A full-stack restaurant website built using **MongoDB, Express, React, and Node.
 ## 🛠 Tech Stack
 
 ### Frontend
-- React 19  
+- React JS  
 - Vite  
 - React Router  
 - Axios  
