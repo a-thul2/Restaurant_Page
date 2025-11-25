@@ -18,8 +18,22 @@ A full-stack restaurant website built using **MongoDB, Express, React, and Node.
 
 ## 🛠 Tech Stack
 
-**Frontend:** React 19, Vite, React Router, Axios, React Icons, React Hot Toast
-**Backend:** Node.js, Express, MongoDB, Mongoose, Dotenv, CORS
+### Frontend
+- React 19  
+- Vite  
+- React Router  
+- Axios  
+- React Icons  
+- React Hot Toast  
+
+### Backend
+- Node.js  
+- Express  
+- MongoDB  
+- Mongoose  
+- Dotenv  
+- CORS  
+
 
 ---
 
